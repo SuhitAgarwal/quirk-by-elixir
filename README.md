@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">✨🐙 quirk. </h1>
+<h1 align="center"> quirk. </h1>
 </p>
 
 Quirk is a crossplatform, GPL-licensed, [Cognitive Behavioral Therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
